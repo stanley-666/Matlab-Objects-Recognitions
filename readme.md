@@ -1,4 +1,4 @@
-Target:This code is for objects recognition using kaggle dataset.
+Target: This code is for objects recognition using kaggle dataset.
 Enviroment: Matlab
 Training model: `googlenet_matlab.mat`
 
