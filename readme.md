@@ -9,6 +9,6 @@ Just change `imagedatastore` 's parameter to your test image folder(input image)
 
 other things you can do:
 You can create another objects for training like cat, dog ...
-ex. ../validation/cat/.. ,,.vakudation/dog/.. 
+ex. ../validation/cat/.. or ../validation/dog/.. 
 
 
