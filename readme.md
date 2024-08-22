@@ -12,3 +12,9 @@ You can create another objects for training like cat, dog ...
 ex. ../validation/cat/.. or ../validation/dog/.. 
 
 
+![image](airplane.jpg)
+![image](UAV.jpg)
+![image](bicycle.jpg)
+![image](motobike.jpg)
+![image](car.jpg)
+![image](boat.jpg)
